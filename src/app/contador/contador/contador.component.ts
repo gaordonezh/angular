@@ -10,7 +10,7 @@ import { Component } from '@angular/core';
   `,
 })
 export class ContadorComponent {
-  title: string = 'bases';
+  title: string = 'Contador app';
   numero: number = 10;
   base: number = 5;
 
